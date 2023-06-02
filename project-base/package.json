@@ -1,0 +1,15 @@
+{
+  "name": "project-base",
+  "version": "1.0.0",
+  "description": "Base para todos os outros projetos a serem realizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "author": "Rosael Victor",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.3.9"
+  }
+}
