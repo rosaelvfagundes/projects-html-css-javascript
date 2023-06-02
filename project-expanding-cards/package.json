@@ -1,0 +1,15 @@
+{
+  "name": "project-expanding-cards",
+  "version": "1.0.0",
+  "description": "Projeto que cria cards e os expande com base no clique.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "author": "Rosael Victor",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.3.9"
+  }
+}
